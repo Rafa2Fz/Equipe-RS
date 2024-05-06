@@ -17,4 +17,6 @@ For Developers:
 Passo a passo: 
 - 1: Clone este repositório (Na brench desejada)
 - 2: Vá até o diretório do repositório no PowerShell, e execute o comando:
-"npm run dev"
+```
+npm run dev
+```
