@@ -15,7 +15,7 @@ For Developers:
 
 
 Passo a passo: 
-- 1: Clone este repositório (Na brench desejada)
+-1 Clone este repositório (Na brench desejada)
 ```
 git clone https://github.com/HumbertoCG18/Equipe-RS.git
 ```
